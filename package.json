@@ -1,0 +1,14 @@
+{
+  "name": "cypresstest",
+  "version": "1.0.0",
+  "description": "my first cypresstest",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Kishan Godhani",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.8.0"
+  }
+}
