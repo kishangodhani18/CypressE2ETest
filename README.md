@@ -4,8 +4,8 @@ Cypress E2E Test
 # Setup
 ## git clone https://github.com/kishangodhani18/CypressE2ETest
 
-## cd to cypress-example folder and 
->run npm install
+## cd to cypress-example folder and run below command
+>npm install
 # ✔️ Run tests
 
 If you installed Cypress via npm:

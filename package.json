@@ -4,8 +4,8 @@
   "description": "my first cypresstest",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
-  },
+    "test": "cypress run"
+  },  
   "author": "Kishan Godhani",
   "license": "ISC",
   "devDependencies": {
