@@ -1,6 +1,6 @@
 Here's the corrected version of your README.md file:
 
-```markdown
+
 # CypressE2ETest
 
 This repository contains end-to-end tests written using Cypress.
