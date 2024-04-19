@@ -1,22 +1,37 @@
+Here's the corrected version of your README.md file:
+
+```markdown
 # CypressE2ETest
-Cypress E2E Test
 
-# Setup
-## git clone https://github.com/kishangodhani18/CypressE2ETest
+This repository contains end-to-end tests written using Cypress.
 
-## cd to cypress-example folder and run below command
->npm install
-# ✔️ Run tests
+## Setup
 
-If you installed Cypress via npm:
-% cypress test runner (cypress open):
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/kishangodhani18/CypressE2ETest
+   ```
 
-> npm run cy:open:web OR cypress open --env device=web 
+2. Navigate to the `CypressE2ETest` folder:
+   ```bash
+   cd CypressE2ETest
+   ```
 
-(change web to mob to switch to mobile view)
-cypress headless mode (cypress run):
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-> npm run cy:run:web OR cypress run --env device=web
+## Run Tests
 
-If you installed Cypress zip:
-> import cypress-example folder and you are good to go
+To run the tests, use the following command:
+```bash
+npm test
+```
+
+This will execute the tests using npm. Ensure that your environment is properly set up before running the tests.
+
+Feel free to explore the tests and modify them as needed.
+```
+Author By:
+Kishan Godhani | QA
